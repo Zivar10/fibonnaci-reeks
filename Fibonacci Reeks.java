@@ -11,9 +11,6 @@ public class ClosestFibonacci {
         Scanner keyboard = new Scanner(System.in);
             
         long input;
-		String regex1 = "\\d[0123456789]";
-		
-  
 
         do {
 			
